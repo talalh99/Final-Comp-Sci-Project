@@ -1,10 +1,10 @@
 {
   "name": "express.js-comp-sci-30",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A final project in Comp Sci",
+  "main": "server.js",
   "scripts": {
-    "dev": "server.js"
+    "dev": "books.js"
   },
   "keywords": [],
   "author": "",
