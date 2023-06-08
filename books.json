@@ -1,3 +1,11 @@
 [
-    
+    { "id": 1, "name": "The 50th Law", "Author": "Robert Greene and 50 Cent"},
+
+    { "id": 2, "name": "The Paris Apartment", "Author": "Lucy Foley"},
+
+    { "id": 3, "name": "Atomic Habits", "Author": "James Clear"},
+
+    { "id": 4, "name": "100 million dollar offers", "Author": "Maxwell Maltz"},
+
+    { "id": 5, "name": "Hustle Harder, Hustle Smarter", "Author": "50 Cent"},
 ]
